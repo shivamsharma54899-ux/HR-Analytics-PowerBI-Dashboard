@@ -39,8 +39,8 @@ The objective of the project is to transform HR data into meaningful visual insi
 | File / Folder  | Description                                      |
 | -------------- | ------------------------------------------------ |
 | `Dashboard/`   | Contains the Power BI `.pbix` dashboard file     |
-| `Dataset/`     | Contains the Excel dataset used for the analysis |
 | `Screenshots/` | Contains dashboard preview images                |
+| `Dataset/`     | Contains the Excel dataset used for the analysis |
 | `README.md`    | Project documentation                            |
 
 ---
