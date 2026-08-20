@@ -47,7 +47,7 @@ The objective of the project is to transform HR data into meaningful visual insi
 
 ## 📸 Dashboard Preview
 
-![HR Analytics Dashboard](Screenshots/HR_Analytics_Dashboard.png)
+[![HR Analytics Dashboard](Screenshots/HR_Analytics_Dashboard.png)](https://github.com/shivamsharma54899-ux/HR-Analytics-PowerBI-Dashboard/blob/90c508dc7dabb837f1a86e94d36e96fd09315dbe/HR_Analytics_Dashboard.png.png)
 
 ---
 
